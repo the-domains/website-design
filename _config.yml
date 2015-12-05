@@ -1,29 +1,41 @@
-name: Website Design
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75787
 title: Website Design Examples
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3910542668309063
+  brandStrength: 0.5625
+  rhythmicContrast: 0.7252523514907807
   brandColors:
     - '#0374bb'
     - '#2bb24d'
     - '#000000'
     - '#404040'
     - '#84bbde'
-  brandStrength: 0.5625
   lightness: 0.0988544246647507
-  saturation: 0.39105426683090627
-  rhythmicContrast: 0.7252523514907807
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Website Design
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.75787
+layout_spectrum: 0.8458647

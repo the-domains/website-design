@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Website Design Examples]]></title>
+        <description><![CDATA[Website Design Examples]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Dec 2015 17:28:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Technology Company Provides Viral Donations Capability.]]></title>
+            <description><![CDATA[<article><h1>Technology Company Provides Viral Donations Capability.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00ab5e4989e35830f4db1890be59883ddc8f0fa7.png"></article>]]></description>
+            <link>undefinedtechnology-company-provides-viral-donations-capability/index.html</link>
+            <guid isPermaLink="false">f54e9c03-e8cb-4b00-8ecc-0a492d77079b</guid>
+            <pubDate>Sat, 05 Dec 2015 17:28:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

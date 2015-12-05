@@ -1,7 +1,7 @@
 name: Website Design
 favicon: null
-layout_spectrum: 0.30797773762606084
-typography_spectrum: 0.7596786408685148
+layout_spectrum: 1
+typography_spectrum: 0.75787
 title: Website Design Examples
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.610186274163425
+    - '#0374bb'
+    - '#2bb24d'
+    - '#000000'
+    - '#404040'
+    - '#84bbde'
+  brandStrength: 0.5625
   lightness: 0.0988544246647507
   saturation: 0.39105426683090627
   rhythmicContrast: 0.7252523514907807

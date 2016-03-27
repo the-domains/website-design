@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-05T17:28:55.666Z'
-dateModified: '2015-12-05T17:18:37.397Z'
+datePublished: '2016-03-27T21:06:59.626Z'
+dateModified: '2015-12-05T17:37:14.584Z'
 title: Technology Company Provides Viral Donations Capability.
 author: []
+sourcePath: _posts/2015-12-05-technology-company-provides-viral-donations-capability.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-05-technology-company-provides-viral-donations-capability.md
-published: true
 url: technology-company-provides-viral-donations-capability/index.html
 _type: Article
 
@@ -31,7 +31,7 @@ Imagine, taking out your phone, scanning the plaque and immediately seeing that 
 
 Each person that views the video will have the ability to make an additional donation to the nonprofit on behalf of, or memory of, the original benefactor.
 
-Web SEO and Design, a [Delray Beach Web Design Company][0], was hired to design, build, host, and maintain this [nonprofit technology website][1]. Here are some screenshots:
+Web SEO and Design, a [Delray Beach Web Design Company][0], was hired to design, build, host, and maintain this [nonprofit technology website][1]. Here are some screenshots from the initial designs:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eee0ca6d-9236-49c6-8f0a-4bea5b85d46b.jpg)
 ![Alternative homepage design for GiveProDonations.com](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c76312c-bb0f-4a6f-a7ee-a3efeed68584.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7636b9dd-bbb0-4275-ae18-cf80fd8a5807.jpg)
